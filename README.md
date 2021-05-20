@@ -1,5 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lucasdevoliveira.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/lucasdevoliveira?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vfreis.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/vfreis?style=social)
 
 ## Olá!
 
