@@ -14,6 +14,7 @@ Olá, me chamo Vinicios Falqueiro, sou desenvolvedor Full Stack.
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" height="25"/>
 </p>
 
 ## ⭐ Github
