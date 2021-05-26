@@ -3,7 +3,7 @@
 
 ## Olá!
 
-Olá, me chamo Vinicios Falqueiro, sou desenvolvedor Full Stack.
+Vinicios Falqueiro, mestre em transformar café em linhas de código.
 
 ## 💻 Tecnologias & Ferramentas
 
