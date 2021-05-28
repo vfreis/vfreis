@@ -3,7 +3,7 @@
 
 ## Olá!
 
-Sou Vinicios Falqueiro, mestre em transformar café em linhas de código.
+Sou Vinicios Falqueiro, especialista em transformar café em linhas de código.
 
 ## 💻 Tecnologias & Ferramentas
 
