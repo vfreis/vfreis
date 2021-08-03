@@ -5,6 +5,9 @@
 
 Sou Vinicios Falqueiro, especialista em transformar café em linhas de código.
 
+## 📕 Meu Portifolio
+https://vigilant-dijkstra-f3a1ae.netlify.app/
+
 ## 💻 Tecnologias & Ferramentas
 
 <p align="center">
@@ -23,8 +26,6 @@ Sou Vinicios Falqueiro, especialista em transformar café em linhas de código.
   <img src = "https://github-readme-stats.vercel.app/api?username=vfreis&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vfreis&hide=css,java,html&theme=tokyonight">
 </p>
-
-## 📕 Meus Artigos
 
 <!-- BLOG-POST-LIST:START -->
 - 
