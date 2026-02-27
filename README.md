@@ -3,28 +3,28 @@ Hi 👋, I'm Vinicios Falqueiro Reis
 </h1>
 
 <h3 align="center">
-Data Engineer | Building Cloud Data Pipelines & AI-Ready Systems
+Data Engineer | Cloud Data Platforms | AI & Data Pipeline Architecture
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Engineering;AWS+Data+Lakehouse;Python+%7C+SQL+%7C+ETL;AI+%26+LLM+Integrations;Turning+Coffee+into+Data+Pipelines+☕">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Engineer;AWS+Data+Lakehouse+Architecture;ETL+%7C+Python+%7C+SQL;Building+Production+Data+Pipelines;AI+Ready+Data+Systems">
+</p>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💡 Data professional from **Business Intelligence & Planning** into **Cloud Data Engineering & AI Systems**
+Data Engineer experienced in designing and implementing scalable data pipelines, ETL workflows and cloud-based analytics architectures.
 
-⚙️ I design scalable pipelines that transform raw data into analytics and AI-ready datasets.
+I work building end-to-end data solutions — from ingestion and validation to curated analytical layers ready for BI and AI applications.
 
-☁️ Currently building:
-- AWS Data Lakehouse Architectures
-- ETL & Data Pipelines
-- API & LLM Integrations
-- Analytics Automation Systems
-
-📍 São Paulo, Brazil  
+Focused on:
+- Data Lakehouse Architectures
+- Pipeline Automation
+- Data Quality & Governance
+- Cloud Data Platforms (AWS)
+- AI & LLM Integrations
 
 ---
 
@@ -78,8 +78,8 @@ LLM API integrations and intelligent workflows
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vfreis&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfreis&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vfreis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfreis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
