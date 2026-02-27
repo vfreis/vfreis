@@ -14,7 +14,7 @@ Data Engineer | Building Cloud Data Pipelines & AI-Ready Systems
 
 ## 🚀 About Me
 
-💡 Data professional transitioning from **Business Intelligence & Planning** into **Cloud Data Engineering & AI Systems**
+💡 Data professional from **Business Intelligence & Planning** into **Cloud Data Engineering & AI Systems**
 
 ⚙️ I design scalable pipelines that transform raw data into analytics and AI-ready datasets.
 
