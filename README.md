@@ -1,107 +1,195 @@
-<h1 align="center">
-Hi 👋, I'm Vinicios Falqueiro
-</h1>
-
-<h3 align="center">
-Data Engineer | Cloud Data Platforms | AI & Data Pipeline Architecture
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Engineer;AWS+Data+Lakehouse+Architecture;ETL+%7C+Python+%7C+SQL;Building+Production+Data+Pipelines;AI+Ready+Data+Systems">
-</p>
+  <img src="./assets/profile-banner.svg" alt="Vinicios Falqueiro Reis — Data Engineer" width="100%" />
 </p>
 
----
-
-## 🚀 About Me
-
-Data Engineer experienced in designing and implementing scalable data pipelines, ETL workflows and cloud-based analytics architectures.
-
-I work building end-to-end data solutions — from ingestion and validation to curated analytical layers ready for BI and AI applications.
-
-Focused on:
-- Data Lakehouse Architectures
-- Pipeline Automation
-- Data Quality & Governance
-- Cloud Data Platforms (AWS)
-- AI & LLM Integrations
-
----
-
-## 🌐 Portfolio
-
-🔗 https://vigilant-dijkstra-f3a1ae.netlify.app/
-
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Data Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-### ☁️ Cloud & Data Platform
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![S3](https://img.shields.io/badge/Amazon_S3-orange?style=for-the-badge&logo=amazons3)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-yellow?style=for-the-badge)
-![Athena](https://img.shields.io/badge/Athena-blue?style=for-the-badge)
-
-### 🤖 AI & Automation
-![API](https://img.shields.io/badge/API-Integration-green?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Applications-purple?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Data-Automation-red?style=for-the-badge)
-
-### 📊 Analytics & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Data Modeling](https://img.shields.io/badge/Data-Modeling-darkblue?style=for-the-badge)
-
----
-
-## ⭐ Featured Projects
-
-🚀 **AWS Data Lakehouse Pipeline**  
-Bronze → Silver architecture using S3, Glue & Athena
-
-📊 **Data Quality Audit Framework**  
-Automated validation and anomaly detection pipeline
-
-📈 **Sales Forecast ML Pipeline**  
-End-to-end forecasting workflow
-
-🤖 **AI Automation Projects**  
-LLM API integrations and intelligent workflows
-
----
-
-## 📈 GitHub Stats
+<p align="center">
+  <a href="https://www.linkedin.com/in/vfalqueiroreis/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://vigilant-dijkstra-f3a1ae.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
+  </a>
+  <a href="mailto:vinicios.falqueiro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vfreis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfreis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://img.shields.io/badge/Based_in-Brazil-0D1117?style=flat-square" alt="Based in Brazil" />
+  <img src="https://img.shields.io/badge/Remote_Contracts-International_Teams-16A34A?style=flat-square" alt="Available for remote contracts with international teams" />
+  <img src="https://img.shields.io/badge/Focus-Reliable_Data_Platforms-0284C7?style=flat-square" alt="Reliable data platforms" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## About
+
+I am a **Data Engineer** with nearly six years of experience across data analytics, process automation, and data delivery, including nearly two years building production workloads on AWS.
+
+I design end-to-end data solutions—from ingestion and orchestration to distributed processing, validation, observability, and curated datasets for analytics and AI workloads. My background combines cloud engineering with operational and business experience, helping me translate real requirements into reliable, maintainable data products.
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>Cloud Data Platforms</strong><br/><sub>AWS lakehouse architecture and scalable storage</sub></td>
+    <td width="25%" align="center"><strong>Distributed Processing</strong><br/><sub>Spark and PySpark batch workloads</sub></td>
+    <td width="25%" align="center"><strong>Pipeline Reliability</strong><br/><sub>Airflow orchestration, validation, and observability</sub></td>
+    <td width="25%" align="center"><strong>AI-Ready Data</strong><br/><sub>Curated datasets and LLM-assisted enrichment</sub></td>
+  </tr>
+</table>
+
+### Selected professional impact
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>10+ TB/month</strong><br/><sub>Spark and PySpark workloads</sub></td>
+    <td width="25%" align="center"><strong>20% faster</strong><br/><sub>Pipeline runtime after optimization</sub></td>
+    <td width="25%" align="center"><strong>95% automated</strong><br/><sub>Recurring production workflows</sub></td>
+    <td width="25%" align="center"><strong>50% less</strong><br/><sub>Manual ingestion effort</sub></td>
+  </tr>
+</table>
+
+---
+
+## Selected Work
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vfreis&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/vfreis/aws_data_lakehouse_pipeline">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vfreis&repo=aws_data_lakehouse_pipeline&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=34D399" alt="AWS Data Lakehouse Pipeline" />
+  </a>
+  <a href="https://github.com/vfreis/superstore_sales">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vfreis&repo=superstore_sales&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=34D399" alt="Superstore Sales Analytics and Segmentation" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vfreis/rfm_analysis-">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vfreis&repo=rfm_analysis-&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=34D399" alt="RFM Customer Segmentation" />
+  </a>
+  <a href="https://github.com/vfreis/data_migration">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vfreis&repo=data_migration&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=34D399" alt="Data Migration and File Profiling" />
+  </a>
+</p>
+
+### 1. [AWS Data Lakehouse Pipeline](https://github.com/vfreis/aws_data_lakehouse_pipeline)
+
+A production-inspired AWS data platform that ingests, validates, transforms, and curates data through Bronze and Silver layers.
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-0F766E?style=flat-square)
+
+**Demonstrates:** modular ingestion, PySpark transformations, Airflow orchestration, incremental processing, data-quality checks, logging, and optimized Parquet output.
+
+[**Explore the architecture and source code →**](https://github.com/vfreis/aws_data_lakehouse_pipeline)
+
+---
+
+### 2. [Superstore Sales Analytics & Segmentation](https://github.com/vfreis/superstore_sales)
+
+A combined Python and SQL analytics project exploring sales performance, customer behavior, and customer segmentation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means-F59E0B?style=flat-square)
+
+**Demonstrates:** data cleaning, exploratory analysis, advanced SQL queries, CTEs, window functions, feature scaling, and K-Means clustering.
+
+[**Explore the analysis and source code →**](https://github.com/vfreis/superstore_sales)
+
+---
+
+### 3. [RFM Customer Segmentation](https://github.com/vfreis/rfm_analysis-)
+
+A customer-segmentation analysis built from retail transaction data using Recency, Frequency, and Monetary features.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![RFM](https://img.shields.io/badge/RFM-7C3AED?style=flat-square)
+![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-0369A1?style=flat-square)
+
+**Demonstrates:** transactional-data cleaning, RFM feature engineering, logarithmic transformation, standardization, K-Means clustering, and segment visualization.
+
+[**Explore the segmentation code →**](https://github.com/vfreis/rfm_analysis-)
+
+---
+
+### 4. [Data Migration & File Profiling](https://github.com/vfreis/data_migration)
+
+A Python toolkit for profiling heterogeneous CSV and spreadsheet sources before transformation or migration.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-0F766E?style=flat-square)
+![Schema Profiling](https://img.shields.io/badge/Schema_Profiling-0369A1?style=flat-square)
+![Data Migration](https://img.shields.io/badge/Data_Migration-7C3AED?style=flat-square)
+
+**Demonstrates:** file discovery, encoding detection, delimiter inference, schema and data-type profiling, structured logging, and migration-oriented inspection.
+
+[**Explore the migration utilities →**](https://github.com/vfreis/data_migration)
+
+> The AWS Data Lakehouse Pipeline is the flagship architecture project. The other repositories demonstrate complementary strengths in SQL analytics, customer segmentation, ingestion profiling, and data preparation.
+
+---
+
+## Core Stack
+
+### Data Engineering and Processing
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/ETL%2FELT-0F172A?style=flat-square" alt="ETL and ELT" />
+  <img src="https://img.shields.io/badge/Batch_%26_Incremental-334155?style=flat-square" alt="Batch and incremental processing" />
+</p>
+
+### Cloud, APIs, and Delivery
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Amazon_EMR-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Amazon EMR" />
+  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Glue" />
+  <img src="https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Amazon Athena" />
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Amazon Redshift" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### Architecture, Quality, and Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Lakehouse-0EA5E9?style=flat-square" alt="Data Lakehouse" />
+  <img src="https://img.shields.io/badge/Data_Warehousing-2563EB?style=flat-square" alt="Data Warehousing" />
+  <img src="https://img.shields.io/badge/Dimensional_Modeling-4F46E5?style=flat-square" alt="Dimensional Modeling" />
+  <img src="https://img.shields.io/badge/Data_Vault-7C3AED?style=flat-square" alt="Data Vault" />
+  <img src="https://img.shields.io/badge/Data_Quality-059669?style=flat-square" alt="Data Quality" />
+  <img src="https://img.shields.io/badge/Great_Expectations-FF6B6B?style=flat-square" alt="Great Expectations" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/AI--Ready_Data-0891B2?style=flat-square" alt="AI-ready data" />
+  <img src="https://img.shields.io/badge/LLM_API_Integration-6D28D9?style=flat-square" alt="LLM API integration" />
 </p>
 
 ---
 
-## 🌎 Connect With Me
+## Remote Contract Engagements
 
-<p align="center">
-<a href="https://www.linkedin.com/in/vfalqueiroreis/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+I am available for **project-based and long-term remote contract engagements with international teams**, especially for work involving AWS data platforms, ETL/ELT modernization, Spark and PySpark processing, Apache Airflow orchestration, data-quality controls, and datasets that support analytics or AI applications.
+
+For technical discussions or contract opportunities, reach out through [LinkedIn](https://www.linkedin.com/in/vfalqueiroreis/) or [email](mailto:vinicios.falqueiro@gmail.com).
 
 ---
 
 <p align="center">
-⭐ Building Data Platforms • Cloud Pipelines • AI Systems
+  <strong>Reliable data platforms · Scalable pipelines · AI-ready datasets</strong>
 </p>
