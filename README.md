@@ -316,7 +316,7 @@ For technical discussions or contract opportunities, reach out through [LinkedIn
 <p align="center">
   <a href="https://www.linkedin.com/in/vfalqueiroreis/">LinkedIn</a>
   ·
-  <a href="https://vigilant-dijkstra-f3a1ae.netlify.app/">Portfolio</a>
+  <a href="https://viniciosdev-2ldsqgy2.manus.space/">Portfolio</a>
   ·
   <a href="mailto:vinicios.falqueiro@gmail.com">Email</a>
 </p>
