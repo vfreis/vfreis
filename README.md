@@ -52,60 +52,85 @@ I design end-to-end data solutions—from ingestion and orchestration to distrib
 
 ## Selected Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vfreis/aws_data_lakehouse_pipeline">AWS Data Lakehouse Pipeline</a></h3>
-      <p>A production-inspired AWS data platform that ingests, validates, transforms, and curates data through Bronze and Silver layers.</p>
-      <p><strong>Demonstrates:</strong> modular ingestion, PySpark transformations, Airflow orchestration, incremental processing, data-quality checks, logging, and Parquet output.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
-        <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
-      </p>
-      <p><a href="https://github.com/vfreis/aws_data_lakehouse_pipeline"><strong>Architecture and source code →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vfreis/superstore_sales">Superstore Sales Analytics & Segmentation</a></h3>
-      <p>A combined Python and SQL analytics project exploring sales performance, customer behavior, and customer segmentation.</p>
-      <p><strong>Demonstrates:</strong> data cleaning, exploratory analysis, advanced SQL queries, CTEs, window functions, feature scaling, and K-Means clustering.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/K--Means-F59E0B?style=flat-square" alt="K-Means" />
-      </p>
-      <p><a href="https://github.com/vfreis/superstore_sales"><strong>Analysis and source code →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vfreis/rfm_analysis-">RFM Customer Segmentation</a></h3>
-      <p>A customer-segmentation analysis built from retail transaction data using Recency, Frequency, and Monetary features.</p>
-      <p><strong>Demonstrates:</strong> transactional-data cleaning, RFM feature engineering, logarithmic transformation, standardization, K-Means clustering, and segment visualization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-        <img src="https://img.shields.io/badge/RFM-7C3AED?style=flat-square" alt="RFM analysis" />
-      </p>
-      <p><a href="https://github.com/vfreis/rfm_analysis-"><strong>Segmentation code →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vfreis/data_migration">Data Migration & File Profiling</a></h3>
-      <p>A Python toolkit for profiling heterogeneous CSV and spreadsheet sources before transformation or migration.</p>
-      <p><strong>Demonstrates:</strong> file discovery, encoding detection, delimiter inference, schema and data-type profiling, structured logging, and migration-oriented inspection.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/CSV-0F766E?style=flat-square" alt="CSV" />
-        <img src="https://img.shields.io/badge/Schema_Profiling-0369A1?style=flat-square" alt="Schema profiling" />
-      </p>
-      <p><a href="https://github.com/vfreis/data_migration"><strong>Migration utilities →</strong></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/vfreis/aws_data_lakehouse_pipeline">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vfreis&repo=aws_data_lakehouse_pipeline&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=34D399" alt="AWS Data Lakehouse Pipeline" />
+  </a>
+  <a href="https://github.com/vfreis/superstore_sales">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vfreis&repo=superstore_sales&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=34D399" alt="Superstore Sales Analytics and Segmentation" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vfreis/rfm_analysis-">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vfreis&repo=rfm_analysis-&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=34D399" alt="RFM Customer Segmentation" />
+  </a>
+  <a href="https://github.com/vfreis/data_migration">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vfreis&repo=data_migration&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=34D399" alt="Data Migration and File Profiling" />
+  </a>
+</p>
+
+### 1. [AWS Data Lakehouse Pipeline](https://github.com/vfreis/aws_data_lakehouse_pipeline)
+
+A production-inspired AWS data platform that ingests, validates, transforms, and curates data through Bronze and Silver layers.
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-0F766E?style=flat-square)
+
+**Demonstrates:** modular ingestion, PySpark transformations, Airflow orchestration, incremental processing, data-quality checks, logging, and optimized Parquet output.
+
+[**Explore the architecture and source code →**](https://github.com/vfreis/aws_data_lakehouse_pipeline)
+
+---
+
+### 2. [Superstore Sales Analytics & Segmentation](https://github.com/vfreis/superstore_sales)
+
+A combined Python and SQL analytics project exploring sales performance, customer behavior, and customer segmentation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means-F59E0B?style=flat-square)
+
+**Demonstrates:** data cleaning, exploratory analysis, advanced SQL queries, CTEs, window functions, feature scaling, and K-Means clustering.
+
+[**Explore the analysis and source code →**](https://github.com/vfreis/superstore_sales)
+
+---
+
+### 3. [RFM Customer Segmentation](https://github.com/vfreis/rfm_analysis-)
+
+A customer-segmentation analysis built from retail transaction data using Recency, Frequency, and Monetary features.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![RFM](https://img.shields.io/badge/RFM-7C3AED?style=flat-square)
+![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-0369A1?style=flat-square)
+
+**Demonstrates:** transactional-data cleaning, RFM feature engineering, logarithmic transformation, standardization, K-Means clustering, and segment visualization.
+
+[**Explore the segmentation code →**](https://github.com/vfreis/rfm_analysis-)
+
+---
+
+### 4. [Data Migration & File Profiling](https://github.com/vfreis/data_migration)
+
+A Python toolkit for profiling heterogeneous CSV and spreadsheet sources before transformation or migration.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-0F766E?style=flat-square)
+![Schema Profiling](https://img.shields.io/badge/Schema_Profiling-0369A1?style=flat-square)
+![Data Migration](https://img.shields.io/badge/Data_Migration-7C3AED?style=flat-square)
+
+**Demonstrates:** file discovery, encoding detection, delimiter inference, schema and data-type profiling, structured logging, and migration-oriented inspection.
+
+[**Explore the migration utilities →**](https://github.com/vfreis/data_migration)
 
 > The AWS Data Lakehouse Pipeline is the flagship architecture project. The other repositories demonstrate complementary strengths in SQL analytics, customer segmentation, ingestion profiling, and data preparation.
 
