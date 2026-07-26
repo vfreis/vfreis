@@ -132,9 +132,9 @@ Analytics · BI · AI workloads
 | Project | Purpose | Stack / focus | Maturity |
 |---|---|---|---|
 | **[AWS Data Lakehouse Pipeline](https://github.com/vfreis/aws_data_lakehouse_pipeline)** | Production-inspired ingestion, validation, distributed transformation, and curated lakehouse layers. | AWS · S3 · EMR · PySpark · Airflow · Parquet | ![Featured](https://img.shields.io/badge/featured-ready-16A34A?style=flat-square) |
-| **[Data Quality Audit](https://github.com/vfreis/data_quality_audit)** | Data-quality audit and reusable validation work for detecting dataset issues before downstream consumption. | Python · validation · auditability · data reliability | ![Improving docs](https://img.shields.io/badge/docs-being_expanded-F59E0B?style=flat-square) |
-| **[Data Migration](https://github.com/vfreis/data_migration)** | Public repository for data-migration exercises, transformation logic, and supporting utilities. | Python · SQL · migration workflows | ![Improving docs](https://img.shields.io/badge/docs-being_expanded-F59E0B?style=flat-square) |
-| **[Sales Forecast](https://github.com/vfreis/sales_forecast)** | Early-stage sales-forecasting repository currently being prepared as a complete, reproducible case study. | Python · forecasting · analytics | ![Early stage](https://img.shields.io/badge/status-early_stage-64748B?style=flat-square) |
+| **[Data Quality Audit](https://github.com/vfreis/data_quality_audit)** | Repository associated with data-quality auditing and validation work. | Python · validation · data reliability | ![Improving docs](https://img.shields.io/badge/docs-being_expanded-F59E0B?style=flat-square) |
+| **[Data Migration](https://github.com/vfreis/data_migration)** | Public data-migration repository. | Data migration · transformation workflows | ![Improving docs](https://img.shields.io/badge/docs-being_expanded-F59E0B?style=flat-square) |
+| **[Sales Forecast](https://github.com/vfreis/sales_forecast)** | Early-stage sales-forecasting repository with documentation still in progress. | Forecasting · analytics | ![Early stage](https://img.shields.io/badge/status-early_stage-64748B?style=flat-square) |
 
 > Repositories are promoted as flagship projects only after their documentation, reproducibility, and technical narrative are presentation-ready.
 
