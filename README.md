@@ -22,7 +22,7 @@ Data Engineer | AWS · PySpark · Apache Airflow · Python · SQL
       alt="LinkedIn"
     />
   </a>
-  <a href="https://vigilant-dijkstra-f3a1ae.netlify.app/">
+  <a href="https://vfreis.github.io/vfr-portifolio/">
     <img
       src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7"
       alt="Portfolio"
@@ -42,8 +42,8 @@ Data Engineer | AWS · PySpark · Apache Airflow · Python · SQL
     alt="Based in Brazil"
   />
   <img
-    src="https://img.shields.io/badge/Remote_Contracts-International_Teams-16A34A?style=flat-square"
-    alt="Available for international remote contracts"
+    src="https://img.shields.io/badge/Remote_Roles-Brazil_and_Global-16A34A?style=flat-square"
+    alt="Open to remote roles in Brazil and international opportunities"
   />
   <img
     src="https://img.shields.io/badge/Focus-Reliable_Data_Platforms-0284C7?style=flat-square"
@@ -55,7 +55,7 @@ Data Engineer | AWS · PySpark · Apache Airflow · Python · SQL
 
 ## About Me
 
-I am a **Data Engineer** with nearly six years of experience across data analytics, process automation, and data delivery, including nearly two years building production workloads on AWS.
+I am a **Data Engineer** with nearly six years of experience across data analytics, process automation, and data delivery, including hands-on AWS pipeline engineering, EMR modernization, and Airflow DAG maintenance.
 
 I design end-to-end data solutions — from ingestion and orchestration to distributed processing, validation, observability, and curated datasets for analytics and AI workloads.
 
@@ -74,6 +74,10 @@ My background combines cloud engineering with operational and business experienc
 | **10+ TB/month** | **20% faster** | **95% automated** | **50% less** |
 |:---:|:---:|:---:|:---:|
 | Spark and PySpark workloads | Pipeline runtime after optimization | Recurring production workflows | Manual ingestion effort |
+
+---
+
+> **Evidence note:** Metrics below describe CV-reported professional outcomes; they are not independently measured results of the public demonstration repositories.
 
 ---
 
@@ -293,9 +297,9 @@ Experiments and notebooks covering foundational machine-learning concepts and an
 
 ---
 
-## Remote Contract Engagements
+## Data Engineering Opportunities
 
-I am available for **project-based and long-term remote contract engagements with international teams**, especially for work involving:
+I am seeking **Data Engineer, Cloud Data Engineer, and ETL/Data Integration** roles, prioritizing remote opportunities in Brazil while remaining open to international teams. My technical focus includes:
 
 - AWS data platforms and lakehouse architecture;
 - ETL/ELT pipeline development or modernization;
@@ -305,7 +309,7 @@ I am available for **project-based and long-term remote contract engagements wit
 - ingestion APIs and data-delivery services;
 - curated datasets supporting analytics and AI applications.
 
-For technical discussions or contract opportunities, reach out through [LinkedIn](https://www.linkedin.com/in/vfalqueiroreis/) or [email](mailto:vinicios.falqueiro@gmail.com).
+For job opportunities or technical discussions, reach out through [LinkedIn](https://www.linkedin.com/in/vfalqueiroreis/) or [email](mailto:vinicios.falqueiro@gmail.com).
 
 ---
 
@@ -316,7 +320,7 @@ For technical discussions or contract opportunities, reach out through [LinkedIn
 <p align="center">
   <a href="https://www.linkedin.com/in/vfalqueiroreis/">LinkedIn</a>
   ·
-  <a href="https://viniciosdev-2ldsqgy2.manus.space/">Portfolio</a>
+  <a href="https://vfreis.github.io/vfr-portifolio/">Portfolio</a>
   ·
   <a href="mailto:vinicios.falqueiro@gmail.com">Email</a>
 </p>
